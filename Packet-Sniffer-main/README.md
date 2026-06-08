@@ -16,13 +16,6 @@ Ensure you have the following installed:
 Python 3.7+
 Scapy (for packet capturing and analysis)
 Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/Godfathxx/Packet-Sniffer.git
-cd packet-sniffer
-Install dependencies:
 
 bash
 Copy code
